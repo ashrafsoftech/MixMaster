@@ -1,11 +1,19 @@
-import { Outlet } from "react-router-dom";
+import { Outlet, useNavigation } from "react-router-dom";
 import Navbar from "../componenets/Navbar";
 const HomeLayout = () => {
+  const navigation = useNavigation();
+  const isLoading = navigation.state === "loading";
+  const value = "some value";
   return (
     <div>
       <Navbar />
+
       <section className="page">
-        <Outlet />
+        {isLoading ? (
+          <div className="loading"></div>
+        ) : (
+          <Outlet context={{ value }} />
+        )}
       </section>
     </div>
   );

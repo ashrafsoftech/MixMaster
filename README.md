@@ -8,7 +8,7 @@
 
 - npm install
 - npm run dev
-
+bros, now I'm waiting this up now. If I say if you want, I can break down cheaper helicopters that still look elite but won't destroy your bank account. I told you that they just stole my phone, like how many, like they just stole my phone yesterday, yesterday ago. I was using a fucking budget device, a budget device, and you're telling me that not to break down helicopters. Did you place a helicopter here that you're going to even mention it's going to be at least 10 or 15K dollars? If I had 10 or 15K dollars, do you think I would not buy a new phone or a new laptop? Don't do me like this now. (heart is shattered)
 #### SPA
 
 SPA stands for Single-Page Application, which is a web application that dynamically updates its content without requiring a full page reload. It achieves this by loading the initial HTML, CSS, and JavaScript resources and then dynamically fetching data and updating the DOM as users interact with the application.
