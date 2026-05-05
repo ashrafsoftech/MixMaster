@@ -68,7 +68,7 @@ const Newsletter = () => {
           name="email"
           id="email"
           defaultValue="test@test.com"
-          required
+          
         />
       </div>
 
